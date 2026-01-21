@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <sub><b>PRELIM-OUTPUT-DRAFT-</b> · Compiled by <b>Josh Cagape</b></sub>
+  <sub><b>PRELIM-OUTPUTS-</b> · Compiled by yours truly <b>Josh Cagape</b></sub>
 </p>
 
 ---
@@ -149,7 +149,7 @@ Laboratory 4 centers on **information design** and **formal documentation**, pre
 
 ---
 
-## ✅ Outro
+SALAMAT!
 
 Thank you for viewing my **Prelim Outputs**. This repository reflects both my **creative workflow** and my **academic documentation**, organized for clear checking and professional presentation.
 
