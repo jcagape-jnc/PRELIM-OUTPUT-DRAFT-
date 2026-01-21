@@ -5,7 +5,7 @@
   />
 </p>
 
-# PRELIM-OUTPUT-DRAFT-
+# Elective Laboratories
 
 **Preliminary Course Outputs Repository**  
 Prepared and compiled by **Josh Cagape**
