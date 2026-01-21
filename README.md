@@ -1,9 +1,14 @@
-<!-- MAIN ANIMATED HEADER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Arial&size=26&pause=1200&color=FF3B3B&center=true&vCenter=true&width=420&lines=Prelim+Outputs" 
+    src="https://readme-typing-svg.demolab.com?font=Arial&size=24&pause=1400&color=FF5FA2&center=true&vCenter=true&width=720&lines=PRELIM+PROJECT+PORTFOLIO" 
   />
 </p>
+
+
+
+
+
+
 
 <p align="center">
   <sub><b>PRELIM-OUTPUTS-</b> · Compiled by yours truly <b>Josh Cagape</b></sub>
