@@ -1,79 +1,116 @@
+<!-- MAIN ANIMATED HEADER -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Arial&size=26&pause=1200&color=FF3B3B&center=true&vCenter=true&width=420&lines=Prelim+Outputs" 
+  />
+</p>
+
 # PRELIM-OUTPUT-DRAFT-
 
 **Preliminary Course Outputs Repository**  
 Prepared and compiled by **Josh Cagape**
 
-This repository documents my **Prelim laboratory outputs**, organized systematically to present both **creative and academic requirements**. Each laboratory section below includes a brief introduction and **direct access to the actual outputs** for transparent viewing and checking.
+This repository presents my **Prelim laboratory outputs**, combining **creative design**, **technical execution**, and **reflective academic writing**. Each laboratory below includes a short context, **embedded visuals**, and **direct file access** for seamless academic review.
 
 ---
 
-## 🧪 Laboratory 1  
-### Personal Introduction Micro-Presentation
+## 🧰 Skills & Tools Used
 
-Laboratory 1 focuses on introducing myself through a **micro-presentation created using Canva**, complemented by a reflective write-up discussing the learning experience and challenges encountered during the activity.
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-Design-blueviolet?style=flat-square&logo=canva" />
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Visual%20Branding-Creative-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation-Academic-lightgrey?style=flat-square" />
+</p>
+
+---
+
+<!-- LAB 1 ANIMATED HEADER -->
+<p>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Arial&size=20&pause=1000&color=FF3B3B&width=520&lines=Laboratory+1:+Personal+Introduction" 
+  />
+</p>
+
+### 🧪 Laboratory 1 — Personal Introduction Micro-Presentation
+
+Laboratory 1 focuses on presenting a **personal introduction** through a Canva-based micro-presentation, supported by a **reflection paper** describing the learning experience.
 
 #### 📄 Outputs
-- **Personal Introduction Micro-Presentation (PDF)**  
-  👉 [View File](Laboratory%201/Laboratory%201%20Personal%20Introduction%20Micro-Presentation%20Using%20Canva.pdf%20(1).pdf)
-
-- **Reflection Paper**  
-  👉 [View File](Laboratory%201/Laboratory%201%20Reflection.pdf)
+- 👉 [Personal Introduction Micro-Presentation (PDF)](Laboratory%201/Laboratory%201%20Personal%20Introduction%20Micro-Presentation%20Using%20Canva.pdf%20(1).pdf)
+- 👉 [Reflection Paper](Laboratory%201/Laboratory%201%20Reflection.pdf)
 
 ---
 
-## 🧪 Laboratory 2  
-### Personal Branding Kit & GitHub Profile Setup
+<!-- LAB 2 ANIMATED HEADER -->
+<p>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Arial&size=20&pause=1000&color=FF3B3B&width=600&lines=Laboratory+2:+Personal+Branding+%26+GitHub+Setup" 
+  />
+</p>
 
-Laboratory 2 highlights the development of my **personal branding identity** and the initial setup of my **GitHub profile**, emphasizing consistency, visual identity, and professional online presence.
+### 🧪 Laboratory 2 — Personal Branding Kit & GitHub Profile Setup
+
+This laboratory highlights the development of my **personal branding identity** and the organization of my **GitHub profile** with consistent visual language.
+
+#### 🎨 Color Palette
+| Role | Hex Code |
+|---|---|
+| Primary Red | `#FF3B3B` |
+| Secondary Pink | `#FF5FA2` |
+| Dark Red | `#C4162A` |
+| Soft Cream | `#FBF7F2` |
+| Neutral Black | `#111111` |
 
 #### 📄 Outputs
-- **Personal Branding Kit + GitHub Profile Setup (PDF)**  
-  👉 [View File](Laboratory%202/Laboratory%202%20Personal%20Branding%20Kit%20%2B%20GitHub%20Profile%20Setup%20(1).pdf)
-
-- **Reflection Paper**  
-  👉 [View File](Laboratory%202/Laboratory%202%20Reflection.pdf)
+- 👉 [Personal Branding Kit + GitHub Profile Setup (PDF)](Laboratory%202/Laboratory%202%20Personal%20Branding%20Kit%20%2B%20GitHub%20Profile%20Setup%20(1).pdf)
+- 👉 [Reflection Paper](Laboratory%202/Laboratory%202%20Reflection.pdf)
 
 ---
 
-## 🧪 Laboratory 3  
-### Social Media Graphics & Visual Branding
+<!-- LAB 3 ANIMATED HEADER -->
+<p>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Arial&size=20&pause=1000&color=FF3B3B&width=520&lines=Laboratory+3:+Visual+Branding+Outputs" 
+  />
+</p>
 
-Laboratory 3 showcases my **visual branding outputs**, including promotional materials designed for digital platforms. These outputs demonstrate layout balance, color harmony, and brand consistency.
+### 🧪 Laboratory 3 — Social Media Graphics & Visual Branding
 
-### 🔰 Banner (Featured Intro Visual)
+Laboratory 3 showcases my **visual branding materials** designed for digital platforms, focusing on layout balance and brand consistency.
+
+#### 🔰 Featured Banner
 ![Banner](Laboratory%203/Banner.png)
 
-### 📢 Promotional Graphic
+#### 📢 Promotional Graphic
 ![Promo](Laboratory%203/promo.png)
 
-### 🟦 Square Post
+#### 🟦 Square Post
 ![Square Post](Laboratory%203/square_post.png)
 
-#### 📝 Reflection
-- 👉 [View Reflection PDF](Laboratory%203/Laboratory%203%20Reflection.pdf)
+- 👉 [Reflection Paper](Laboratory%203/Laboratory%203%20Reflection.pdf)
 
 ---
 
-## 🧪 Laboratory 4  
-### Infographic & Mini Project Documentation
+<!-- LAB 4 ANIMATED HEADER -->
+<p>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Arial&size=20&pause=1000&color=FF3B3B&width=600&lines=Laboratory+4:+Infographic+%26+Mini+Project" 
+  />
+</p>
 
-Laboratory 4 centers on **information design and documentation**, combining a visual infographic with a written mini-project report that explains the concept, process, and real-world relevance.
+### 🧪 Laboratory 4 — Infographic & Mini Project Documentation
 
-### 📊 Infographic Output
+This laboratory focuses on **information visualization** and **formal documentation**, presenting a visual infographic supported by a written mini project.
+
+#### 📊 Infographic
 ![Infographic](Laboratory%204/Laboratory%204%20Infographic.png)
 
-### 📘 Mini Project Documentation
-- 👉 [View Documentation PDF](Laboratory%204/Laboratory%204%20Mini%20Project%20Documentation.pdf)
+#### 📘 Documentation
+- 👉 [Mini Project Documentation (PDF)](Laboratory%204/Laboratory%204%20Mini%20Project%20Documentation.pdf)
 
 ---
 
-## 📌 Notes
-- All outputs are **directly accessible** without navigating subfolders.
-- Images are embedded for immediate preview.
-- File links use **precise GitHub-safe paths** to prevent broken references.
-
----
-
-**© 2026 | Josh Cagape**  
-_Prelim Course Outputs_
-
+<p align="center">
+  <sub>© 2026 · Josh Cagape · Prelim Outputs</sub>
+</p>
